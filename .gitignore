@@ -68,3 +68,7 @@ node_modules
 
 .env
 dist
+
+screenshots
+screenshots/*.png
+screenshots/*.jpg
